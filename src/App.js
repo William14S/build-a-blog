@@ -1,5 +1,11 @@
 import React from 'react';
+import BTCard from './components/BTCard';
+import Comments from './components/comments';
+import Header from './components/header';
+import PUCard from './components/pucard';
+import Title from './components/Title';
 import './App.css';
+
 
 function App() {
   return (
