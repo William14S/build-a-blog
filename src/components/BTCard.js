@@ -2,7 +2,7 @@ import React from 'react';
 
 function BTCard() {
   return ( 
- 
+ <div>
     <div class="card-title">Butcher twee cronut</div>
               <p class="card-text">Selfies vice chia hammock artisan ethical poutine tbh gentrify tofu.</p>
                   <div class="btn-block">
@@ -22,6 +22,7 @@ function BTCard() {
                     <span class="small">[100]</span>
                   </button>
                 </div>
+  </div>
   );
 }
 export default BTCard;

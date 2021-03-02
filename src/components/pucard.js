@@ -2,6 +2,7 @@ import React from 'react';
 
 function PUCard() {
   return (
+      <div>
                 <div class="card-container">
                   <div class="card-title">Pop-up gochujang artisan activated charcoal bushwick irony raclette</div>
                   <p class="card-text">Listicle hexagon helvetica tumeric shabby chic cloud bread XOXO four loko umami crucifix hoodie forage bushwick. Mlkshk cliche everyday carry sartorial truffaut portland prism four loko cronut. Tousled locavore tote bag food truck blue bottle shaman...</p>
@@ -23,6 +24,7 @@ function PUCard() {
                     <span class="small">[100]</span>
                   </button>
                 </div>
+    </div>
               
   );
 }
